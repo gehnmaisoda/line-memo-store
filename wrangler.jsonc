@@ -7,8 +7,7 @@
     {
       "binding": "DB",
       "database_name": "line-memo-store",
-      // D1作成後に実際のIDで置き換える
-      "database_id": "TODO"
+      "database_id": "2b946a19-5ba5-4090-be52-0f88e73c5864"
     }
   ]
 }
