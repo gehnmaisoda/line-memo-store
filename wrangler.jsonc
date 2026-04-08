@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "line-memo-store",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-04-08",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "line-memo-store",
+      // D1作成後に実際のIDで置き換える
+      "database_id": "TODO"
+    }
+  ]
+}
